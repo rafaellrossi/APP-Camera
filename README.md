@@ -1,4 +1,4 @@
-# Câmera-Mobile📷
+# APP-Camera📷
 
 O projeto Câmera foi desenvolvido como atividade. É composto por apenas
 uma tela, tento como objetivo os seguintes itens:
